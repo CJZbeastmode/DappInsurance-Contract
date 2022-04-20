@@ -1,5 +1,5 @@
 # DappInsurance-Contract
-!!!: EVERY TRANSACTION THAT TAKES PLACE ON THIS CONTRACT IS DENOTED IN WEI! (1 WEI = 1 x 10<sup>-18</sup>)
+!!!: EVERY TRANSACTION THAT TAKES PLACE ON THIS CONTRACT IS DENOTED IN WEI! (1 WEI = 1 x 10<sup>-18</sup>Ether)
 
 This repository contains the smart contract of the client side decentralized App DappInsurance (https://github.com/CJZbeastmode/DappInsurance). This smart contract works like a funding pool. Users who purchase insurance from this
 decentralized insurance service transfer their fee to this smart contract. If a user succesfully files a claim, the
