@@ -1,5 +1,5 @@
 # DappInsurance-Contract
-!!!: EVERY TRANSACTION THAT TAKES PLACE ON THIS CONTRACT IS DENOTED IN WEI! (1 WEI = 1 $\times$ 10<sup>-18<sup>)
+!!!: EVERY TRANSACTION THAT TAKES PLACE ON THIS CONTRACT IS DENOTED IN WEI! \(1 WEI = 1 $\times$ 10<sup>-18<sup>\)
 
 This repository contains the smart contract of the client side decentralized App DappInsurance (https://github.com/CJZbeastmode/DappInsurance). This smart contract works like a funding pool. Users who purchase insurance from this
 decentralized insurance service transfer their fee to this smart contract. If a user succesfully files a claim, the
@@ -55,9 +55,9 @@ The address of the smart contract deployed will be rendered on the command line.
 2, Working with Contract
 Change the code in /scripts/workstation.py<br />
 There are three functions available for this smart contract:<br />
-getFunds(): Returns uint256. Get the current balance of the contract. Only Owners have access to this function.
-fund(uint256 _amount): Transfer _amount amount to the smart contract.
-withdraw(address payable _address, uint256 _amount): Withdraw the compensation fee and send it to affiliated users. Only Owners have access to this function.
+getFunds(): Returns uint256. Get the current balance of the contract. Only Owners have access to this function.<br />
+fund(uint256 _amount): Transfer _amount amount to the smart contract.<br />
+withdraw(address payable _address, uint256 _amount): Withdraw the compensation fee and send it to affiliated users. Only Owners have access to this function.<br />
 
 
 
@@ -112,5 +112,5 @@ Ethereum Wallet Address: 0x3221A67F25507812A16664f191F030b247d17773 <br />
 
 
 ## Links
-DappInsurance: https://github.com/CJZbeastmode/DappInsurance
+DappInsurance: https://github.com/CJZbeastmode/DappInsurance<br />
 GUN Database: https://gun.eco/
